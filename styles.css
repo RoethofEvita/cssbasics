@@ -1,0 +1,30 @@
+a {
+  text-decoration: none;
+  font-family: Helvetica;
+  color: #191970;
+}
+
+a:hover {
+    color: #FF7F50;
+}
+
+
+body {
+    background-image:url('blue.jpg');
+    margin: 0%;
+  }
+
+
+.box {
+    font-family: Helvetica;
+    color: #191970;
+    background-color: #E0FFFF;
+    border-color: #ADD8E6;
+    border-style: double;
+    width: 80%;
+    margin:auto;
+  }
+
+  .box ul {
+    list-style: none;
+  }
